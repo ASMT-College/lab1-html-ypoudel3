@@ -13,7 +13,6 @@
     <input type="text" name="q" id="myInput" class="myClass" placeholder="Search"/>
     <input type="submit">
     </div>
-
 </form>
 </body>
 </html>
